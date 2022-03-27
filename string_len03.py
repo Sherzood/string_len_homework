@@ -7,4 +7,5 @@ def main(a,b):
     Returns:
         True or False
     """
+    
     return len(a)==len(b)
