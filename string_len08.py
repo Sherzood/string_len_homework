@@ -8,6 +8,7 @@ def main(s):
     Returns:
         str: answer
     """
+    
     lens=len(s)
     if lens%2==0:
         return s[lens//2-1:lens//2+1]
