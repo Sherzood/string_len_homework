@@ -10,7 +10,7 @@ def main(num1, num2):
         str: answer
     """
     
-    answer=num1+num2
+    answer=int(num1)+int(num2)
     answer=str(answer)
     return answer
   
