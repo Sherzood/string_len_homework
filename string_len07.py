@@ -9,11 +9,5 @@ def main(s1,s2,s3):
         string
     """
     
-    s=''
-    if len(s1)%2!=0:
-        s+='['+s1+','
-    if len(s2)%2!=0:
-        s+=s2+','
-    if len(s3)%2!=0:
-        s+=s3+']'
-    return s  
+   
+    return  
