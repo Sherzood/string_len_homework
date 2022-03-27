@@ -8,6 +8,7 @@ def main(s1,s2,s3):
     Returns:
         string
     """
+    
     s=''
     if len(s1)%2!=0:
         s+='['+s1+','
