@@ -8,4 +8,5 @@ def main(s):
     Returns:
         bool: answer
     """
+    
     return s[0]==s[-1]
