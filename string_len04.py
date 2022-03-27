@@ -6,5 +6,6 @@ def main(s):
     Returns:
         string
     """
+    
     return len(s)*'*'
   
