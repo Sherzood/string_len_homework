@@ -11,5 +11,5 @@ def main(num1, num2):
     """
     answer=num1+num2
     answer=str(answer)
-    return type(answer),answer
-print(main(17,15))    
+    return answer
+  
